@@ -5,6 +5,6 @@ Français :
 
 Anglais :
 
-    Unzip the file, go in
+    Unzip the file, open it
     lunch Generateur.py and start it with F5
 
