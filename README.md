@@ -1,7 +1,7 @@
 Français :
 
     Il suffit de decompresser le fichier zip, se rendre dedans
-    Ovrir le fichier "Generateur.py" avec l'IDLE Python et F5
+    Ovrir le fichier "Generateur.py" avec l'IDLE Python et le lancer avec F5
 
 Anglais :
 
