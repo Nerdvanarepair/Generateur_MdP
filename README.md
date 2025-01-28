@@ -6,5 +6,5 @@ Français :
 Anglais :
 
     Unzip the file, open it
-    Open "Generateur.py" with Python' IDLE and press F5 to launch
+    Open "Generateur.py" with Python's IDLE and press F5 to launch
 
