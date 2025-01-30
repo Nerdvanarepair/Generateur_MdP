@@ -6,5 +6,5 @@ def Tirage(Caracteres, i, Nmbr_Cara, Mdp):
         Alea_Liste.append(choice(Caracteres))
         i += 1
     
-    Alea = "".joint(Alea_Liste)
+    Alea = "".join(Alea_Liste)
     return Alea
