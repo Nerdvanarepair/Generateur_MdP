@@ -12,7 +12,7 @@ while True:
             Nmbr_Cara = int(Nmbr_Cara)
             break
         except:
-            print(""" Un Nombre ou un chiffre wesh, t'es con.ne ?!""")
+            print(""" Un Nombre ou un chiffre !!""")
 
     MdP = Tirage(Caracteres, i, Nmbr_Cara, MdP)
     print(MdP)
