@@ -10,4 +10,4 @@ def finir():
             print("""Bon Bah j'me ramasse... :'(""")
             exit()
         else:
-            print("""C'est pas compliqué, OUI ou NON, même un.e flemmard.e j'lui ai mis o ou n..""")
+            print("""C'est pas compliqué, OUI ou NON, même un.e flemmard.e peut y arriver""")
